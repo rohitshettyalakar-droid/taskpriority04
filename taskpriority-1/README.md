@@ -5,7 +5,8 @@
 Flare Explorer:  
 https://coston2-explorer.flare.network/address/0x9216dBE1FCfe8A122DA7D9F8C34139417b0Cc9a5
 
----
+<img width="1161" height="800" alt="image" src="https://github.com/user-attachments/assets/f8eba253-b80c-430f-a1e9-0e5264a00752" />
+
 
 ## **Project Description**
 The **Task Priority Manager** is a decentralized application built on the Flare Coston2 testnet that allows users to create, store, and manage prioritized tasks entirely on-chain.
